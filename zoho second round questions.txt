@@ -2,7 +2,7 @@
 
 2. x pattern print with mid value https://www.youtube.com/watch?v=2ul2JSWj52U
 
-3. odd ascending even descending in c
+3. odd as cending even descending in c
 
 4. merge two sorted array 
 
@@ -27,7 +27,7 @@ i
 o
 u
 
-6. inner loop pattern print in c(https://www.youtube.com/watch?v=XAG_STqTu4c)
+6.   inner loop pattern print in c(https://www.youtube.com/watch?v=XAG_STqTu4c)
 
 5
 5 5 5 5 5 5 5 5 5 
@@ -60,10 +60,10 @@ eg) i/p a = 20;b = 100;
 11. Next Greater Element (NGE) for every element in given Array
 
 Input: arr[] = [ 4 , 5 , 2 , 25 ]
-Output:  4      –>   5
-               5      –>   25
-               2      –>   25
-              25     –>   -1
+Output:  4      â€“>   5
+               5      â€“>   25
+               2      â€“>   25
+              25     â€“>   -1
 
 12. matrix addition
 
@@ -128,13 +128,13 @@ Output: 3 4 5 6 7 1 2
 
 18. Check if given String is Pangram or not
 
-Input: “The quick brown fox jumps over the lazy dog” 
+Input: â€œThe quick brown fox jumps over the lazy dogâ€ 
 Output: is a Pangram 
-Explanation: Contains all the characters from ‘a’ to ‘z’] 
+Explanation: Contains all the characters from â€˜aâ€™ to â€˜zâ€™] 
 
-Input: “The quick brown fox jumps over the dog”
+Input: â€œThe quick brown fox jumps over the dogâ€
 Output: is not a Pangram 
-Explanation: Doesn’t contain all the characters from ‘a’ to ‘z’, as ‘l’, ‘z’, ‘y’ are missing
+Explanation: Doesnâ€™t contain all the characters from â€˜aâ€™ to â€˜zâ€™, as â€˜lâ€™, â€˜zâ€™, â€˜yâ€™ are missing
 
 19. Missing characters to make a string Pangram
 
@@ -298,11 +298,11 @@ sum and difference of two numbers using pointers in c;
 REVERSE THA ARRAY USING MALLOC DMA IN C
 
 17.Given an array of integers, compute the maximum value for each integer in the index, by either summing all the digits or multiplying all the digits. (Choose which operation gives the maximum value)
-•	Input:
-•	5
-•	120 24 71 10 59
-•	Output:
-•	3 8 8 1 45
+â€¢	Input:
+â€¢	5
+â€¢	120 24 71 10 59
+â€¢	Output:
+â€¢	3 8 8 1 45
 
 5. Given a matrix of 2D array of n rows and m coloumns. Print this matrix in ZIG-ZAG fashion as shown in figure.
  
@@ -425,18 +425,18 @@ R A B C
 3 78 91 83
 4 69 72 95
 
-R – RollDifference Between Element Sum and Digit Sum of an Arrayno, A, B, C – Marks in three subjects
+R â€“ RollDifference Between Element Sum and Digit Sum of an Arrayno, A, B, C â€“ Marks in three subjects
 Given the above matrix, print the result of the queries given the following syntax.
 The first input string has a single character denoting the field to be printed.
-* – All fields of the selected rows
-A – Print only field A
-B – Print only field B
-C – Print only field C
+* â€“ All fields of the selected rows
+A â€“ Print only field A
+B â€“ Print only field B
+C â€“ Print only field C
 
-The second string contains the condition – <field><relational_operator><value>.
-> – Greater than
-< – Less than
-= – Equal to
+The second string contains the condition â€“ <field><relational_operator><value>.
+> â€“ Greater than
+< â€“ Less than
+= â€“ Equal to
 
 I/P: *
 A>70
