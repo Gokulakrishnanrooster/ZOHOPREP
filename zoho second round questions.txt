@@ -1,0 +1,703 @@
+1. expand the string (https://www.youtube.com/watch?v=qFZ0YpW9iSQ&t=853s)
+
+2. x pattern print with mid value https://www.youtube.com/watch?v=2ul2JSWj52U
+
+3. odd ascending even descending in c
+
+4. merge two sorted array 
+
+5. Character between vowels reverse
+
+The program must accept string S as input For each vowel from right to left in the string ,the program must printthe character between the current vowel(inclusive) and the next vowel exclusive)
+
+INPUT-1:manager
+
+Output:
+er
+ag
+an
+
+INPUT 2:PEN
+output:EN
+
+input 3:aeiou
+a
+e
+i
+o
+u
+
+6. inner loop pattern print in c(https://www.youtube.com/watch?v=XAG_STqTu4c)
+
+5
+5 5 5 5 5 5 5 5 5 
+5 4 4 4 4 4 4 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 2 1 2 3 4 5 
+5 4 3 2 2 2 3 4 5 
+5 4 3 3 3 3 3 4 5 
+5 4 4 4 4 4 4 4 5 
+5 5 5 5 5 5 5 5 5 
+
+7. string permutation https://www.youtube.com/watch?v=lRivNyX64wo&list=PLZOgRMyq30Z7wJwAdDtBuYmOLqL__WlrN&index=5&t=1685s
+
+/tmp/afm4YkuOaT.o
+abc
+abc acb bac bca cba cab 
+
+8. String combination (https://www.youtube.com/watch?v=hPvsxOOBSzs&list=PLZOgRMyq30Z7wJwAdDtBuYmOLqL__WlrN&index=2&t=491s)
+/tmp/afm4YkuOaT.o
+aab
+aab aba baa 
+
+9. sort array according to frequency of element
+
+10. Given two numbers a and b both < 200 we have to find the square numbers which lie between a and b(inclusive)
+
+eg) i/p a = 20;b = 100;
+      o/p 25,36,49,64,81,100 
+11. Next Greater Element (NGE) for every element in given Array
+
+Input: arr[] = [ 4 , 5 , 2 , 25 ]
+Output:  4      –>   5
+               5      –>   25
+               2      –>   25
+              25     –>   -1
+
+12. matrix addition
+
+13. find martix is magic square or not 
+Input : n = 3
+  2   7   6
+  9   5   1
+  4   3   8
+  
+Output : Magic matrix
+Explanation:In matrix sum of each
+row and each column and diagonals sum is 
+same = 15.
+
+Input : n = 3
+  1   2   2 
+  2   2   1
+  2   1   2
+Output : Not a Magic Matrix
+Explanation:In matrix sum of each
+row and each column and diagonals sum is
+not same.
+
+13 remove space from string
+
+input='go ku la kr is hn an'
+output='gokulakrishnan'
+
+14. find leaders to right side of each element 
+
+input={16,17,4,3,5,2}
+output={17,5,2}
+
+15. find max of right from each element 
+input:{16, 17, 4, 3, 5, 2}
+output:{/tmp/SRh5IufZkg.o
+17 5 5 5 2 -1 }
+
+16. Given a boolean matrix mat[M][N] of size M X N, modify it such that if a matrix cell mat[i][j] is 1 (or true) then make all the cells of ith row and jth column as 1. 
+
+Examples:
+
+Input: {{1, 0},
+           {0, 0}}
+Output: {{1, 1}
+              {1, 0}}
+Input: {{0, 0, 0},
+            {0, 0, 1}}
+Output: {{0, 0, 1},
+               {1, 1, 1}}
+
+Input: {{1, 0, 0, 1},
+           {0, 0, 1, 0},
+          {0, 0, 0, 0}}
+Output: {{1, 1, 1, 1},
+               {1, 1, 1, 1},
+              {1, 0, 1, 1}}
+
+17. Input: 
+arr[] = {1, 2, 3, 4, 5, 6, 7}, d = 2
+Output: 3 4 5 6 7 1 2
+
+18. Check if given String is Pangram or not
+
+Input: “The quick brown fox jumps over the lazy dog” 
+Output: is a Pangram 
+Explanation: Contains all the characters from ‘a’ to ‘z’] 
+
+Input: “The quick brown fox jumps over the dog”
+Output: is not a Pangram 
+Explanation: Doesn’t contain all the characters from ‘a’ to ‘z’, as ‘l’, ‘z’, ‘y’ are missing
+
+19. Missing characters to make a string Pangram
+
+
+20.Removing punctuations from a given string
+
+Input : %welcome' to @geeksforgeek<s
+Output : welcome to geeksforgeeks
+
+21. fibonoci using forloop 
+
+Input: arr[] = {3, 4, 5, 6, 7, 1, 2}, d=2
+Output: 5 6 7 1 2 3 4
+
+22. frequency of element in array using c++ vector and map  in c++;
+
+23. frequency of char in string in c++ using unsorted map;
+24. Digit with operator at end in c++
+25. find first and second largest element in array in c/c++
+
+input 12+
+output 3
+
+25. Remove space from the string;
+
+26. put space from string if start is capital letter \
+
+27. guess the random number in java
+
+28. check the date is valid or not
+
+29. check the number is perfect number or not in c/c++
+
+For example, 6 is a positive number that is completely divisible by 1, 2, and 3. We know that the number is also divisible by itself but we will include it in the addition of divisors. When we add these divisors (1 + 2 + 3 = 6), it produces 6, which is equal to the number that we have considered. So, we can say that 6 is a perfect number.
+
+30. sort the array with points
+
+5 points if a perfect square
+
+4 points if multiple by 4 and 6
+
+3 points if it is even number;
+
+input :[10,36,3,49,12];
+ouput:[36,1,49,20,6]
+
+31. diamond pattern in c
+ n=3
+  *
+ ***
+*****
+ ***
+  *
+
+32. Diamond pattern in c
+n=5;
+  1
+ 3 2
+6 5 4
+6 5 4
+ 3 2
+  1
+
+
+33. N queen problem in c Using back tracking
+
+n=5
+/tmp/M391mOPhaz.o
+5
+1
+Q - - - - 
+- - Q - - 
+- - - - Q 
+- Q - - - 
+- - - Q - 
+
+
+
+2
+Q - - - - 
+- - - Q - 
+- Q - - - 
+- - - - Q 
+- - Q - - 
+
+
+
+3
+- Q - - - 
+- - - Q - 
+Q - - - - 
+- - Q - - 
+- - - - Q 
+
+
+
+4
+- Q - - - 
+- - - - Q 
+- - Q - - 
+Q - - - - 
+- - - Q - 
+
+
+
+5
+- - Q - - 
+Q - - - - 
+- - - Q - 
+- Q - - - 
+- - - - Q 
+
+
+
+6
+- - Q - - 
+- - - - Q 
+- Q - - - 
+- - - Q - 
+Q - - - - 
+
+
+
+7
+- - - Q - 
+Q - - - - 
+- - Q - - 
+- - - - Q 
+- Q - - - 
+
+
+
+8
+- - - Q - 
+- Q - - - 
+- - - - Q 
+- - Q - - 
+Q - - - - 
+
+
+9
+- - - - Q 
+- Q - - - 
+- - - Q - 
+Q - - - - 
+- - Q - - 
+
+
+
+10
+- - - - Q 
+- - Q - - 
+Q - - - - 
+- - - Q - 
+- Q - - - 
+
+
+
+sum and difference of two numbers using pointers in c;
+
+REVERSE THA ARRAY USING MALLOC DMA IN C
+
+17.Given an array of integers, compute the maximum value for each integer in the index, by either summing all the digits or multiplying all the digits. (Choose which operation gives the maximum value)
+•	Input:
+•	5
+•	120 24 71 10 59
+•	Output:
+•	3 8 8 1 45
+
+5. Given a matrix of 2D array of n rows and m coloumns. Print this matrix in ZIG-ZAG fashion as shown in figure.
+ 
+Example:
+Input: 
+1 2 3
+4 5 6
+7 8 9
+Output: 
+1 2 4 7 5 3 6 8 9
+
+21.Given N. print the following snake pattern (say N = 4). condition:  must not use arrays ( 1D array  or 2D array like Matrix ).
+1   2   3   4
+8   7   6    5
+9   10  11   12
+16  15  14  13
+
+22.Given N. print the Latin Matrix (say N = 3). condition:  must not use strings(aka character literals), arrays (both 1D and 2D), inbuilt functions(like rotate).
+
+
+
+ A   B   C
+B   C   A
+C   A   B
+
+23. mobile keypad numbr format in c
+
+input :2
+output : a,b,c
+
+Remove elements from the array
+
+a[]={1,2,3,4,5};
+
+Enter value to remove: 3
+
+output: 1,2,4,5
+
+remove duplicate element from the array
+
+input=1, 2, 2, 3, 4, 4, 4, 5, 5
+
+output : 1 2 3 4 5
+
+remove duplicate from array
+
+input: 1,2,1,3,4,2,5,3
+
+output: 1,2,3,4,5
+
+move all zeros at end of the array 
+
+input: {1,2,0,3,4,0,0,5,1,0,0}
+
+ouput: /tmp/vBJ0t6OUzT.o
+1 2 3 4 5 1 0 0 0 0 0 
+
+array concatenation
+
+input:1,2,3
+
+output= 1,2,3,1,2,3
+
+Running Sum of 1d Array
+
+input: 1,2,3,4
+
+output: 1,3,6,10
+
+Input: nums = [1,2,3,4]
+
+ Final Value of Variable After Performing Operations
+
+Input: operations = ["--X","X++","X++"]
+Output: 1
+Explanation: The operations are performed as follows:
+Initially, X = 0.
+--X: X is decremented by 1, X =  0 - 1 = -1.
+X++: X is incremented by 1, X = -1 + 1 =  0.
+X++: X is incremented by 1, X =  0 + 1 =  1.
+
+1672. Richest Customer Wealth
+
+Input: accounts = [[1,2,3],[3,2,1]]
+Output: 6
+Explanation:
+1st customer has wealth = 1 + 2 + 3 = 6
+2nd customer has wealth = 3 + 2 + 1 = 6
+Both customers are considered the richest with a wealth of 6 each, so return 6.
+Output: [1,3,6,10]
+Explanation: Running sum is obtained as follows: [1, 1+2, 1+2+3, 1+2+3+4].
+
+
+1920. Build Array from Permutationhttps://medium.com/theleanprogrammer/build-array-from-permutation-907ff395eb40
+
+input: 0,2,1,5,3,4
+
+output: 0,1,2,4,5,3
+
+explaination:
+Explanation: The array ans is built as follows: 
+ans = [nums[nums[0]], nums[nums[1]], nums[nums[2]], nums[nums[3]], nums[nums[4]], nums[nums[5]]]
+    = [nums[0], nums[2], nums[1], nums[5], nums[3], nums[4]]
+    = [0,1,2,4,5,3]
+
+two sum
+
+input:  nums = [2,7,11,15], target = 9
+
+output: 0,1;
+
+Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+
+query using array in c
+
+input:
+R A B C
+1 56 67 89
+2 89 54 90
+3 78 91 83
+4 69 72 95
+
+R – RollDifference Between Element Sum and Digit Sum of an Arrayno, A, B, C – Marks in three subjects
+Given the above matrix, print the result of the queries given the following syntax.
+The first input string has a single character denoting the field to be printed.
+* – All fields of the selected rows
+A – Print only field A
+B – Print only field B
+C – Print only field C
+
+The second string contains the condition – <field><relational_operator><value>.
+> – Greater than
+< – Less than
+= – Equal to
+
+I/P: *
+A>70
+
+O/P:
+
+2 89 54 90
+3 78 91 83
+4 69 72 95
+
+I/P: A
+C<90
+
+O/P:
+
+56
+78
+
+Difference Between Element Sum and Digit Sum of an Array
+
+Input: nums = [1,15,6,3]
+Output: 9
+Explanation: 
+The element sum of nums is 1 + 15 + 6 + 3 = 25.
+The digit sum of nums is 1 + 1 + 5 + 6 + 3 = 16.
+The absolute difference between the element sum and digit sum is |25 - 16| = 9.
+Example 2:
+
+Input: nums = [1,2,3,4]
+Output: 0
+Explanation:
+The element sum of nums is 1 + 2 + 3 + 4 = 10.
+The digit sum of nums is 1 + 2 + 3 + 4 = 10.
+The absolute difference between the element sum and digit sum is |10 - 10| = 0.
+
+1313. Decompress Run-Length Encoded List
+
+Input: nums = [1,2,3,4]
+Output: [2,4,4,4]
+Explanation: The first pair [1,2] means we have freq = 1 and val = 2 so we generate the array [2].
+The second pair [3,4] means we have freq = 3 and val = 4 so we generate [4,4,4].
+At the end the concatenation [2] + [4,4,4] is [2,4,4,4].
+
+look and say sequence in c
+
+1 
+11 
+21 
+1211 
+111221 
+312211 
+13112221 
+1113213211 
+
+
+ROman to integer 
+
+XV
+
+15
+
+1678. Goal Parser Interpretation
+
+input: G()()()(al)
+
+output: Goooal
+
+explaination: G: G
+():o
+(al):al
+
+1528. Shuffle String
+Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
+Output: "leetcode"
+Explanation: As shown, "codeleet" becomes "leetcode" after shuffling.
+
+2194. Cells in a Range on an Excel Sheet
+
+Input: s = "K1:L2"
+Output: ["K1","K2","L1","L2"]
+Explanation:
+The above diagram shows the cells which should be present in the list.
+The red arrows denote the order in which the cells should be presented.
+
+UInteger to roman in c
+
+1221. Split a String in Balanced Strings
+Input: s = "RLRRLLRLRL"
+Output: 4
+Explanation: s can be split into "RL", "RRLL", "RL", "RL", each substring contains same number of 'L' and 'R'.
+
+
+Spiral matrix in c
+
+1 2 3 4
+12 13 14 5
+11 16 15 6
+10 9 8 7
+
+output: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+
+
+Chemical bomb pattern in c
+
+/tmp/yOvOyMsAXE.o
+I           I
+CF         FC
+A I       I A
+T  D     D  T
+I   I   I   I
+O    C C    O
+N     A     N
+O    C C    O
+I   I   I   I
+T  D     D  T
+A I       I A
+CF         FC
+I           I
+
+
+String to ATOI
+
+input="42"
+output=42
+
+Input: s = "   -42"
+Output: -42
+
+
+Input: s = "4193 with words"
+Output: 4193
+
+70. Climbing Stairs
+
+Input: n = 2
+Output: 2
+Explanation: There are two ways to climb to the top.
+1. 1 step + 1 step
+2. 2 steps
+
+
+14. Longest Common Prefix
+
+Example 1:
+
+Input: strs = ["flower","flow","flight"]
+Output: "fl"
+Example 2:
+
+Input: strs = ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+ 
+
+1313. Decompress Run-Length Encoded List
+
+Example 1:
+Input: nums = [1,2,3,4]
+Output: [2,4,4,4]
+Explanation: The first pair [1,2] means we have freq = 1 and val = 2 so we generate the array [2].
+The second pair [3,4] means we have freq = 3 and val = 4 so we generate [4,4,4].
+At the end the concatenation [2] + [4,4,4] is [2,4,4,4].
+Example 2:
+Input: nums = [1,1,2,3]
+Output: [1,3,3]
+
+1720. Decode XORed Array
+Example 1:
+Input: encoded = [1,2,3], first = 1
+Output: [1,0,2,1]
+Explanation: If arr = [1,0,2,1], then first = 1 and encoded = [1 XOR 0, 0 XOR 2, 2 XOR 1] = [1,2,3]
+
+
+2433. Find The Original Array of Prefix Xor
+Example 1:
+Input: pref = [5,2,0,3,1]
+Output: [5,7,2,3,2]
+Explanation: From the array [5,7,2,3,2] we have the following:
+- pref[0] = 5.
+- pref[1] = 5 ^ 7 = 2.
+- pref[2] = 5 ^ 7 ^ 2 = 0.
+- pref[3] = 5 ^ 7 ^ 2 ^ 3 = 3.
+- pref[4] = 5 ^ 7 ^ 2 ^ 3 ^ 2 = 1.
+Example 2:
+Input: pref = [13]
+Output: [13]
+Explanation: We have pref[0] = arr[0] = 13.
+
+COunting bits in c
+
+Input: n = 2
+Output: [0,1,1]
+Explanation:
+0 --> 0
+1 --> 1
+2 --> 10
+
+Input: n = 5
+Output: [0,1,1,2,1,2]
+Explanation:
+0 --> 0
+1 --> 1
+2 --> 10
+3 --> 11
+4 --> 100
+5 --> 101
+
+
+power of 2
+Input: n = 1
+Output: true
+Explanation: 2^0 = 1
+
+Input: n = 16
+Output: true
+Explanation: 24 = 16
+
+power of 3
+Input: n = 1
+Output: true
+Explanation: 3^0 = 1
+
+Input: n = 27
+Output: true
+Explanation: 27 = 33
+
+Input: n = -1
+Output: false
+Explanation: There is no x where 3x = (-1).
+
+Balance the paranthesis
+
+Input: s = "()"
+Output: true
+Input: s = "()[]{}"
+Output: true
+Input: s = "(]"
+Output: false
+
+
+Contains duplicate
+
+Input: nums = [1,2,3,1]
+Output: true
+Input: nums = [1,2,3,4]
+Output: false
+Input: nums = [1,1,1,3,3,4,3,2,4,2]
+Output: true
+
+
+
+Input: PROGRAM
+OUTPUT
+      G
+     GR
+    GRA
+   GRAM
+  GRAMP
+ GRAMPR
+GRAMPRO
+
+
+
+
